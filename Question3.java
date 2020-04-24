@@ -10,6 +10,6 @@ public class Question3
     System.out.println("Enter number: ");
     num = object.nextInt();
 
-    System.out.println("Result: " + (num * num))   
+    System.out.println("Result: " + (num * num));
   }
 }
